@@ -1,1 +1,1 @@
-Kodu çalıştırmak için programiz.com veya Jupyter(her zaman çalışmıyor)'e yapıştırabilirsin.
+Kodu çalıştırmak için https://www.programiz.com/python-programming/online-compiler/ veya https://jupyter.org/try-jupyter/notebooks/?path=Untitled2.ipynb(her zaman çalışmıyor)'e yapıştırabilirsin.
